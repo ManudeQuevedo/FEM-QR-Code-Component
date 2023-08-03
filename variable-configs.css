@@ -1,0 +1,13 @@
+:root {
+  /* Colors */
+  --white: hsl(0, 0%, 100%);
+  --light-gray: hsl(212, 45%, 89%);
+  --soft-blue-grayish: #d5e0ef;
+  --grayish-blue: hsl(220, 15%, 55%);
+  --dark-blue: hsl(218, 44%, 22%);
+
+  /* Fonts */
+  --outfit: "Outfit";
+  --font-light: 200;
+  --font-bold: 600;
+}
